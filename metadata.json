@@ -1,0 +1,6 @@
+{
+  "name": "EquiShare - Pro-Rata Roommate Bill Splitter",
+  "description": "Intelligent pro-rata bill splitting for roommates with weighted stays, room sizes, appliance hours, 'Why You Owe This' plain-language math breakdown, what-if live simulation, fairness scoring, and UPI settle-up.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
